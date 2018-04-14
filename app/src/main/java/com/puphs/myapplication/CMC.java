@@ -8,6 +8,6 @@ public class CMC extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_cmc);
+//        setContentView(R.layout.activity_cmc);
     }
 }
